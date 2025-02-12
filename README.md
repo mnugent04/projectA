@@ -22,7 +22,7 @@ How: A slide show and visual graph to display what months/ seasons have the wors
 
 
 ## Data Used:
-CSV file showing the Daily Max 8-hour CO Concentration for each day of 2023 from https://www.epa.gov/outdoor-air-quality-data.
+CSV file showing the Daily Max 8-hour CO Concentration for each day of 2023 from https://www.epa.gov/outdoor-air-quality-data. Located in the root directory titled "CO_scv_2023.csv".
 
 
 ## Strategies from SwD:
