@@ -16,9 +16,9 @@ CO concentration is worse in the winter months.
 ## Context: 
 Who: Citizens of Santa Clarita, and surrounding areas.
 
-What: High CO concentratins are harmful because it blocks oxygen from our organs. As a city we need to work on reducing these level esspecially in the winter time. We need to be more aware of our habits and try to reduce our impact by implementing things like leaving our heaters on for less time and car pooling more. 
+What: High CO concentrations are harmful because it blocks oxygen from our organs. As a city we need to work on reducing these level especially in the winter time. We need to be more aware of our habits and try to reduce our impact by implementing things like leaving our heaters on for less time and carpooling more. 
 
-How: A slide show and visual graph to display what months/ seasons have the worst CO concentration levels. Revealing that the winter season has the highest elvels encouraging citizens to do better. 
+How: A slide show and visual graph to display what months/ seasons have the worst CO concentration levels. Revealing that winter has the highest levels encouraging citizens to do better. 
 
 
 ## Data Used:
@@ -26,7 +26,7 @@ CSV file showing the Daily Max 8-hour CO Concentration for each day of 2023 from
 
 
 ## Strategies from SwD:
-Using a bar chart to represent the data becuase there is less of a learning curve for the audience. (pg 50)
+Using a bar chart to represent the data because there is less of a learning curve for the audience. (pg 50)
 
 Minimal text on slides to reduce clutter. (pg 73)
 
